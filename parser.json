@@ -1,8 +1,7 @@
 {
-  "location": null,
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-svelte",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
+  "parser_version": "ae5199db47757f785e43a14b332118a5474de1a2",
+  "location": null,
   "lang": "svelte"
 }
