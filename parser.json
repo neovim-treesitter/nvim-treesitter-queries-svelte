@@ -1,6 +1,12 @@
 {
-  "lang": "svelte",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-svelte",
   "semver": false,
+  "lang": "svelte",
+  "inject_deps": [
+    "css",
+    "javascript",
+    "scss",
+    "typescript"
+  ],
   "parser_version": "ae5199db47757f785e43a14b332118a5474de1a2"
 }
